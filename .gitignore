@@ -1,0 +1,12 @@
+save_model
+dataset
+.idea
+.DS_Store
+__pycache__
+*.log
+logs
+tensorboard_dir
+.fitlog
+.fitconfig
+logs
+wandb
