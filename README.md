@@ -1,5 +1,5 @@
 
-PyTorch implementation for Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification (MM 2024).
+PyTorch implementation for Propagation based Recycling Contrastive Learning for Noisy Visible-Infrared Person Re-identification (TMM 2024).
 
 
 ## Introduction
